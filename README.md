@@ -1,4 +1,4 @@
 # Clear-Python-console
-Enter the below command
+Enter the command
 .........................
 print "\n" * 80
