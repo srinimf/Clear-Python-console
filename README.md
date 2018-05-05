@@ -1,4 +1,4 @@
 # Clear-Python-console
-Commands to clear console in Unix based Python
-Command to enter on console
+Enter the below command
+.........................
 print "\n" * 80
